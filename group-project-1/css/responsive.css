@@ -1,0 +1,466 @@
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+
+  /* CSS */
+
+}
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+
+  /* CSS */
+
+}
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+
+  /* banner-section CSS */
+
+  .container {
+    width: 85% !important;
+    padding: 10px !important;
+  }
+
+
+  .banner-section {
+    height: 0px !important;
+  }
+
+  .margin {
+    margin-top: 10px !important;
+  }
+
+  .main-banner .banner-title h1 {
+    font-size: 36px !important;
+    margin-top: -47px !important;
+    margin-right: 8px !important;
+  }
+
+  .banner-title {
+    margin-top: 32px !important;
+    margin-left: 11px !important;
+  }
+
+  .foundation-right img {
+    display: none !important;
+    margin-left: 101%;
+    margin-top: -105px;
+    width: 102%;
+    height: 72vh;
+  }
+
+  .bgi {
+    height: 29vh !important;
+  }
+
+
+  .bgi .overlay {
+
+    height: 36vh !important;
+  }
+
+  .foundation-left {
+
+    margin-left: 61px !important;
+    margin-top: 60px !important;
+
+  }
+
+  .foundation-top h3 {
+    font-size: 24px !important;
+  }
+
+  .foundation-top .line {
+    width: 61px !important;
+    margin-top: -12px !important;
+  }
+
+  .foundation-top .left-line {
+    width: 67px !important;
+    margin-left: 77px !important;
+    margin-top: -3px !important;
+  }
+
+  .foundation-top h2 {
+    font-size: 35px !important;
+  }
+
+  .foundation-icon {
+    flex-direction: column !important;
+    margin-left: 53px !important;
+  }
+
+  .f-icon ul li i {
+    font-size: 54px !important;
+    margin-top: 5px !important;
+    margin-left: 6px !important;
+  }
+
+  .icon-title p {
+    font-size: 17px !important;
+    margin-top: 1px !important;
+    margin-bottom: 0px !important;
+  }
+
+  .shedow-img img {
+    width: 125px !important;
+  }
+
+  .foundation-icon span {
+    font-size: 15px !important;
+  }
+
+  .foundation-icon small {
+    font-size: 14px !important;
+  }
+
+  .about-perent {
+    text-align: center !important;
+  }
+
+  .main-img img {
+    left: 42% !important;
+
+  }
+
+  .leptop-img img {
+    margin-bottom: 35px !important;
+  }
+
+  .circle-perent {
+    margin-top: 30px !important;
+  }
+
+  .sing-up .form-control {
+    width: 98% !important;
+    margin-top: 10px !important;
+  }
+
+  .sing-btn {
+
+    right: 11px !important;
+  }
+
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+
+  /* CSS */
+
+
+
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+
+  /* CSS */
+
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+
+  /* CSS */
+
+  .banner-section {
+    width: 313% !important;
+    height: 66vh !important;
+  }
+
+
+  .justify-content-center {
+    justify-content: start !important;
+  }
+
+  .main-banner .banner-title {
+    margin-top: -36% !important;
+    margin-left: 33% !important;
+  }
+
+  .banner-title {
+    margin-left: 30% !important;
+  }
+
+  .icon {
+    margin-top: -185% !important;
+  }
+
+  .our-team {
+    margin-top: -186% !important;
+  }
+
+  .main-banner .banner-title h1 {
+    font-size: 80px !important;
+    margin-top: 115% !important;
+    margin-left: -21% !important;
+  }
+
+  .justify-content-center {
+    margin-top: 27% !important;
+  }
+
+  .icon ul li a {
+    font-size: 35px !important;
+  }
+
+  .icon ul li i {
+    font-size: 43px !important;
+    margin-top: -277% !important;
+  }
+
+  .our-team p {
+    font-size: 32px !important;
+  }
+
+  .foundation-section {
+    margin-left: 60px !important;
+  }
+
+  .bgi {
+    width: 284% !important;
+    height: 93vh !important;
+  }
+
+  .foundation-top h3 {
+    font-size: 65px !important;
+    margin-top: 27px !important;
+  }
+
+  .foundation-top .line {
+    width: 168px !important;
+    height: 5px !important;
+  }
+
+  .foundation-top .left-line {
+    width: 180px !important;
+    height: 5px !important;
+    margin-left: 210px !important;
+    margin-top: -10px !important;
+  }
+
+  .foundation-top h2 {
+    font-size: 83px !important;
+    margin-top: 35px !important;
+  }
+
+  .f-icon ul li i {
+    font-size: 80px !important;
+
+  }
+
+  .icon-title p {
+    font-size: 48px !important;
+  }
+
+  .shedow-img img {
+    width: 58% !important;
+    margin-bottom: 31px !important;
+  }
+
+  .foundation-icon span {
+    font-size: 44px !important;
+  }
+
+  .foundation-icon small {
+    font-size: 42px !important;
+  }
+
+  .foundation-icon {
+    flex-direction: column !important;
+  }
+
+  .foundation-right img {
+    display: none !important;
+  }
+
+
+  .about-section {
+    padding: 40px 40px !important;
+  }
+
+  .about-perent {
+    text-align: center !important;
+    margin-bottom: 50px !important;
+  }
+
+  .main-img img {
+    margin-left: 45% !important;
+  }
+
+  .about-title a h5 {
+    font-size: 48px !important;
+
+  }
+
+  .about-pragrap p {
+    font-size: 33px !important;
+  }
+
+
+  .mirpur-section {
+    margin-left: 67px !important;
+  }
+
+  .leptop-img img {
+    width: 107% !important;
+    margin-bottom: 70px !important;
+    border-radius: 25px !important;
+  }
+
+  .play a i {
+    margin-top: 26% !important;
+    margin-left: 29% !important;
+    font-size: 240px !important;
+    color: #fff !important;
+  }
+
+  .mirpur-right h4 {
+    font-size: 80px !important;
+  }
+
+  .mirpur-right .line {
+    width: 56% !important;
+    height: 5px !important;
+    margin-bottom: 25px !important;
+
+  }
+
+  .mirpur-right h2 span {
+    font-size: 127px !important;
+  }
+
+  .mirpur-right h2 {
+    font-size: 92px !important;
+    margin-bottom: 30px !important;
+  }
+
+  .mirpur-right p {
+    font-size: 39px !important;
+    line-height: 49px !important;
+    margin-top: 17px !important;
+    margin-bottom: 48px !important;
+  }
+
+  .circle-box {
+    border: 10px solid #078586 !important;
+    width: 400px !important;
+    height: 400px !important;
+  }
+
+  .circle-title h5 {
+    font-size: 50px !important;
+    margin-left: 26% !important;
+    margin-top: 32% !important;
+  }
+
+
+  .circle-title h5 small {
+    font-size: 45px !important;
+  }
+
+  .parcentich-title h2 {
+    font-size: 104px !important;
+  }
+
+  .parcentich-title h4 {
+    font-size: 75px !important;
+  }
+
+  .parcentich-title p {
+    font-size: 38px !important;
+    line-height: 48px !important;
+  }
+
+  .m-btn {
+    padding-top: 120px !important;
+    margin-bottom: 65px;
+  }
+
+  .m-btn a {
+    padding: 60px 122px !important;
+    font-size: 41px !important;
+    border-radius: 20px 0px 20px 0px !important;
+  }
+
+  .singup-section {
+    width: 312% !important;
+    height: 85vh;
+    padding-top: 20% !important;
+  }
+
+  .sing-box .line-box {
+    margin-left: -126px !important;
+    margin-top: 146px !important;
+  }
+
+  .sing-box .line-box .line {
+    width: 22% !important;
+    height: 10px !important;
+    margin-top: 102px !important;
+  }
+
+  .sing-box .line-title {
+    margin-top: -139px !important;
+    margin-bottom: 115px !important;
+  }
+
+  .sing-box .line-title span {
+    font-size: 93px !important;
+  }
+
+  .sing-box .line-title h2 {
+    font-size: 74px !important;
+  }
+
+  .sing-box .line-title p {
+    font-size: 46px !important;
+  }
+
+  .sing-up .form-control {
+    width: 101% !important;
+    padding: 61px 57px !important;
+    font-size: 38px !important;
+    border-radius: 22px 0px 22px 0px !important;
+  }
+
+  .sing-btn {
+    width: 24% !important;
+    padding: 65px 55px !important;
+  }
+
+  .sing-btn a {
+    font-size: 38px !important;
+  }
+
+
+
+
+
+}
